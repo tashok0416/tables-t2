@@ -1,0 +1,74 @@
+
+.div{
+    width: 400px;
+    /* height: .; */
+    border-width: 2px;
+    border-style: solid;
+    border: 1px solid black;
+}
+.navi-1,.navi-2{
+    width: 80px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.navi-3{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.a{
+    width: 100px;
+    height: 80px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.ab{
+    width: 150px;
+    height:80px ;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.abc{
+    width:250px ;
+    height:80px ;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.abcd{
+    width: 70px;
+    height: 80px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+.footer{
+    height:80px ;
+    width: 370px;
+    justify-content: center;
+    align-items: center;
+    border-width: 2px;
+border-style: solid;
+display: flex;
+margin: 10px;
+}
+.nav-4{
+    width: 100px;
+    height:50px ;
+    border-width:2px ;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
